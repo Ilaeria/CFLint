@@ -25,8 +25,6 @@ public class ConfigBuilder {
     /**
      * Apply the listed rule groups
      * 
-     * @param main
-     * @param pluginInfo
      * @param rulegroups
      */
     public void ruleGroups(final String rulegroups) {
