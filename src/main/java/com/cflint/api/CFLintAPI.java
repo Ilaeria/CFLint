@@ -148,7 +148,6 @@ public class CFLintAPI {
 	/**
 	 * List the rule groups
 	 * 
-	 * @param pluginInfo
 	 * @return
 	 */
 	public List<RuleGroup> getRuleGroups() {
